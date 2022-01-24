@@ -1,2 +1,3 @@
 # PredatorPreyProject
- A simulation project that takes bugs and predators that eat the bugs in a square grid.
+ A simulation project that places bugs and predators in a grid space. The bugs get eaten by the predators while the bugs just survive. 
+ Bomb bugs were added as another bug to make it more interesting.
